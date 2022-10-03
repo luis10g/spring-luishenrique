@@ -1,4 +1,4 @@
-package luis henrique.models;
+package luishenrique.models;
  import javax.persistence.Entity;
  import javax.persistence.Table;
  import javax.persistence.Id;
